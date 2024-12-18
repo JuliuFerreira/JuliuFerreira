@@ -17,8 +17,8 @@
 </div>
 <br/>
 
-Tenho estudado programação desde 2021, quando iniciei o curso de Análise e Desenvolvimento de Sistemas na UNIVALI, no qual me formei em 2023.<br/>
-Atualmente, estou no início da minha carreira e sigo em busca de ampliar meus conhecimentos na área de programação, com foco na linguagem C#, que é a que mais despertou meu interesse e afinidade.<br/>
-Meu objetivo é me preparar para o mercado de trabalho, consciente de que ainda há um caminho de aprendizado pela frente.<br/>
-Neste repositório, você encontrará todos os projetos que estou desenvolvendo para aprender e aprimorar minhas habilidades.
+Venho estudando programação desde 2021, quando iniciei o curso de Análise e Desenvolvimento de Sistemas na UNIVALI, onde me formei em 2023.<br/>
+No início da minha carreira, busco constantemente ampliar meus conhecimentos em programação, com foco na linguagem C#, que se destacou como a minha preferida por sua versatilidade e afinidade com meu estilo de aprendizado.<br/>
+Meu objetivo é estar plenamente preparado para o mercado de trabalho, reconhecendo que o aprendizado é um processo contínuo e desafiador.<br/>
+Neste repositório, compartilho os projetos que desenvolvo como parte do meu esforço para aprender, praticar e evoluir na área.
 
