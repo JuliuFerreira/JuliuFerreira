@@ -2,10 +2,10 @@
 
 ### Oi, sou o Julio!
 
-![julio Github stats](http://github-readme-stats.vercel.app/api?username=JuliuFerreira&show_icons=true&theme=dracula)
+![julio Github stats](http://github-readme-stats.vercel.app/api?username=JuliuFerreira&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliuFerreira&langs_count=8)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliuFerreira&langs_count=8)
+
 
 
 ##Tecnologias que estou utilizando
