@@ -5,6 +5,9 @@
 ![julio Github stats](http://github-readme-stats.vercel.app/api?username=JuliuFerreira&show_icons=true&theme=dracula)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliuFerreira&langs_count=8)
+
+
 ##Tecnologias que estou utilizando
 
 <div style="display: inline_block">
